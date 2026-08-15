@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 🦾
+
+I'm a robotics engineering student looking to build intelligent projects.
+
+My current interests are AI-integrated robots, which is why my recent projects [MARA](https://github.com/Jason-Anthonio/MARA) and [Morgana-Agent](https://github.com/Jason-Anthonio/Morgana-Agent) are my most favorite projects so far 😄
 
 <!--
 **Jason-Anthonio/Jason-Anthonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
