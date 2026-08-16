@@ -1,10 +1,10 @@
-## Hi there 🦾
+## Hi there ✋
 
 I'm a robotics engineering student looking to build intelligent projects.
 
 My current interests and work are in AI-integrated robots.
 
-I have projects reflecting my interests here ➡️ **[MARA](https://github.com/Jason-Anthonio/MARA)** , **[Morgana-Agent](https://github.com/Jason-Anthonio/Morgana-Agent)**
+I have projects reflecting my interests here ➡️ **[MARA](https://github.com/Jason-Anthonio/MARA)** 🦾, **[Morgana-Agent](https://github.com/Jason-Anthonio/Morgana-Agent)** 🐱
 
 <!--
 **Jason-Anthonio/Jason-Anthonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
