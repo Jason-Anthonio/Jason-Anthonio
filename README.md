@@ -1,6 +1,6 @@
 # 👋 About Me
 
-## Hi there ✋<br><br>I'm a robotics engineering student looking to build intelligent projects.<br><br>My current interests and work are in AI-integrated robots.<br><br>Featured projects ➡️ **[MARA](https://github.com/Jason-Anthonio/MARA)** 🦾, **[Morgana-Agent](https://github.com/Jason-Anthonio/Morgana-Agent)** 🐱
+### Hi there ✋<br><br>I'm a robotics engineering student looking to build intelligent projects.<br><br>My current interests and work are in AI-integrated robots.<br><br>Featured projects ➡️ **[MARA](https://github.com/Jason-Anthonio/MARA)** 🦾, **[Morgana-Agent](https://github.com/Jason-Anthonio/Morgana-Agent)** 🐱
 
 <br>
 
