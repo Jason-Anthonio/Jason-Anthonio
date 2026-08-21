@@ -1,13 +1,10 @@
-## 👋 About Me
+# 👋 About Me
 
-Hi there! I'm a robotics engineering student looking to build intelligent projects.  
-My current interests and work are in AI-integrated robots.
-
-Featured projects: **[MARA](https://github.com/Jason-Anthonio/MARA)** 🦾 • **[Morgana-Agent](https://github.com/Jason-Anthonio/Morgana-Agent)** 🐱
+## Hi there ✋<br><br>I'm a robotics engineering student looking to build intelligent projects.<br><br>My current interests and work are in AI-integrated robots.<br><br>Featured projects ➡️ **[MARA](https://github.com/Jason-Anthonio/MARA)** 🦾, **[Morgana-Agent](https://github.com/Jason-Anthonio/Morgana-Agent)** 🐱
 
 <br>
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
@@ -32,9 +29,9 @@ Featured projects: **[MARA](https://github.com/Jason-Anthonio/MARA)** 🦾 • *
 
 <br>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Jason-Anthonio&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="175" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jason-Anthonio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="175" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Jason-Anthonio&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jason-Anthonio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="195" />
 </p>
