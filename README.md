@@ -59,4 +59,10 @@ A robotics engineering student looking to build intelligent tech. My current int
 ![](https://github-readme-stats.shion.dev/api?username=Jason-Anthonio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ## Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Discord) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Instagram) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Linkedin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Tiktok) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Gmail) 
+<a href="https://www.linkedin.com/in/jason-anthonio/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/jason_anthonioo/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+
