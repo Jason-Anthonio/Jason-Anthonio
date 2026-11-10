@@ -20,7 +20,7 @@ A robotics engineering student looking to build intelligent tech. My current int
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>MARA (Modular Adaptive Robot Arm)</b><br/>
+      <b>MARA <br/>(Modular Adaptive Robot Arm)</b><br/>
       <sub>A robot arm used for indoor uses, such as feeding, picking, and moving items.</sub><br/>
       🔗 <a href="https://github.com/Jason-Anthonio/MARA">Repo</a>
       <br/>
@@ -33,7 +33,7 @@ A robotics engineering student looking to build intelligent tech. My current int
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Morgana Agent (Desktop Companion)</b><br/>
+      <b>Morgana Agent <br/>(Desktop Companion)</b><br/>
       <sub>A local desktop AI companion that reminds your schedule, show expressions, and remembers conversations.</sub><br/>
       🔗 <a href="https://github.com/Jason-Anthonio/Morgana-Agent">Repo</a>
       <br/>
@@ -46,7 +46,7 @@ A robotics engineering student looking to build intelligent tech. My current int
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Vierbot (Differential Drive SLAM Robot)</b><br/>
+      <b>Vierbot <br/>(Differential Drive SLAM Robot)</b><br/>
       <sub>A SLAM robot that uses BLE-RSSI fingerprinting to locate SOS location through your phone.</sub><br/>
       🔗 <a href="https://github.com/Jason-Anthonio/Vierbot">Repo</a>
       <br/>
