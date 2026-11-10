@@ -2,14 +2,14 @@
 *`AI and Robotics Hobbyist (Pursuing for Service Robots and Humanoids)`* <br> <br>
 A robotics engineering student looking to build intelligent tech. My current interests and work are in AI-integrated robots.<br><br> 
 
-## 🧰Languages and Tools:
+## 🧰 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=opencv,ros,python,arduino,git,github,cmake,raspberrypi,gcp,anaconda,firebase,cloudflare&theme=light)](https://skillicons.dev)
 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
-**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.
+**Also comfortable with**: SQL (BigQuery, Postgres), CI/CD pipelines, Networking and Security (VPC, IAM), Basic ML workflows.<br><br>
 
-## Project Showcase
+## 📺 Project Showcase
 
 <table>
   <tr>
@@ -53,12 +53,12 @@ A robotics engineering student looking to build intelligent tech. My current int
       <sub>ROS2, SLAM, Gazebo, IoT</sub>
     </td>
   </tr>
-</table>
+</table><br>
 
-## Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jason-Anthonio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+## 📊 Stats:
+![](https://github-readme-stats.shion.dev/api?username=Jason-Anthonio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br><br>
 
-## Socials:
+## 📫 Connect:
 <a href="https://www.linkedin.com/in/jason-anthonio/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
