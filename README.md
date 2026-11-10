@@ -59,10 +59,10 @@ A robotics engineering student looking to build intelligent tech. My current int
 ![](https://github-readme-stats.shion.dev/api?username=Jason-Anthonio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br><br>
 
 ## 📫 Connect:
-<a href="https://www.linkedin.com/in/jason-anthonio/" target="blank">
+<a href="https://www.linkedin.com/in/jason-anthonio/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/jason_anthonioo/" target="blank">
+<a href="https://www.instagram.com/jason_anthonioo/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 
